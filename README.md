@@ -1,2 +1,2 @@
 # OpenChat
-A Firebase Cloud Messaging Web appplication build using Angular.
+A Firebase Cloud Messaging Web appplication build using Nodejs.
