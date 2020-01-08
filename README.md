@@ -14,3 +14,7 @@ This application utilizes:
  - Firebase Performance Monitoring
  - Firebase Hosting
  
+Recently added Cloud Functions including:
+ + Welcome message for first-time users
+ + Notifications on new messages
+ + bluring out offesive and violent images
